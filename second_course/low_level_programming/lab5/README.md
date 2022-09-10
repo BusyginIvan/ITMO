@@ -8,6 +8,6 @@
 
 ## Результат работы программы
 
-![Image not found](/second_course/low_level_programming/lab5/result/src.bmp)
+![Image not found](result/src.bmp)
 
-![Image not found](/second_course/low_level_programming/lab5/result/dest.bmp)
+![Image not found](result/dest.bmp)

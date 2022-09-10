@@ -11,15 +11,15 @@
 ### Авторизация
 ![Image not found](screenshots/auth/img1.png)
 
-![Image not found](/second_course/web-programming/lab_4/screenshots/auth/img2.png)
+![Image not found](screenshots/auth/img2.png)
 
-![Image not found](/second_course/web-programming/lab_4/screenshots/auth/img3.png)
+![Image not found](screenshots/auth/img3.png)
 
 ### Основное взаимодействие
-![Image not found](/second_course/web-programming/lab_4/screenshots/main/img1.png)
+![Image not found](screenshots/main/img1.png)
 
-![Image not found](/second_course/web-programming/lab_4/screenshots/main/img2.png)
+![Image not found](screenshots/main/img2.png)
 
-![Image not found](/second_course/web-programming/lab_4/screenshots/main/img3.png)
+![Image not found](screenshots/main/img3.png)
 
-![Image not found](/second_course/web-programming/lab_4/screenshots/main/img4.png)
+![Image not found](screenshots/main/img4.png)

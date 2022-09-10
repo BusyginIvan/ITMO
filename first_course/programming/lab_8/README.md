@@ -13,15 +13,15 @@
 ## Немного скриншотов
 
 ### Выбор языка при запуске приложения
-![Image not found](/programming/lab_8/screenshots/img1.png)
+![Image not found](screenshots/img1.png)
 
 ### Авторизация
-![Image not found](/programming/lab_8/screenshots/img2.png)
+![Image not found](screenshots/img2.png)
 
 ### Всплывающие подсказки
-![Image not found](/programming/lab_8/screenshots/img3.png)
+![Image not found](screenshots/img3.png)
 
 ### Некоторые пункты меню
-![Image not found](/programming/lab_8/screenshots/img4.png)
+![Image not found](screenshots/img4.png)
 
-![Image not found](/programming/lab_8/screenshots/img5.png)
+![Image not found](screenshots/img5.png)

@@ -4,6 +4,6 @@
 
 ### Скриншоты
 
-![Image not found](/second_course/computational_mathematics/lab6/screenshots/img1.png)
+![Image not found](screenshots/img1.png)
 
-![Image not found](/second_course/computational_mathematics/lab6/screenshots/img2.png)
+![Image not found](screenshots/img2.png)
